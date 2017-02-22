@@ -1,4 +1,4 @@
-# Lógica de Programação
+# Lógica de Programação com C
 99 questões de lógica de programação
 
 [1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](http://#)
