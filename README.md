@@ -113,9 +113,9 @@
 
 [56 - Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](http://#)
 
-[1- Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](http://#)
+[57 - Sendo S = 1 + 1/2² + 1/3³...](http://#)
 
-[1- Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](http://#)
+[58 - O valor aproximado do número π pode ser calculado usando-se a série...](http://#)
 
 [59. A famosa conjectura de Goldbach diz que todo inteiro par maior que 2 é soma de dois números primos. Testes foram feitos, mas ainda não se achou um contra-exemplo.](http://#)
 
