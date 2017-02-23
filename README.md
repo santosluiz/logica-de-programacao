@@ -19,45 +19,45 @@
 
 [9. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de óleo, dado seu raio e sua altura.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question9.c)
 
-[10. Converter um inteiro informado menor que 32 para sua representação em binário ](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question10.c)
+[10. Converter um inteiro informado menor que 32 para sua representação em binário ](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_10.c)
 
-[11. Faça um algoritmo para calcular a nota semestral de um aluno. A nota semestral é obtida pela média aritmética entre a nota de 2 bimestres. Cada nota de bimestre é composta por 2 notas de provas.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question11.c)
+[11. Faça um algoritmo para calcular a nota semestral de um aluno. A nota semestral é obtida pela média aritmética entre a nota de 2 bimestres. Cada nota de bimestre é composta por 2 notas de provas.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_11.c)
 
-[12. Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para Km/h. Para tal, multiplique o valor em m/s por 3,6.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question12.c)
+[12. Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para Km/h. Para tal, multiplique o valor em m/s por 3,6.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_12.c)
 
-[13. Um circuito elétrico é composto de duas resistências R1 e R2 em paralelo, e ambas em sequência de uma resistência R3. Faça um algoritmo para calcular a resistência equivalente desse circuito.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question13.c)
+[13. Um circuito elétrico é composto de duas resistências R1 e R2 em paralelo, e ambas em sequência de uma resistência R3. Faça um algoritmo para calcular a resistência equivalente desse circuito.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_13.c)
 
-[14. Em uma cidade se deseja sincronizar os semáforos. Com isto, quando um semáforo abre (fica verde), os veículos que nele estavam parados tendem a encontrar os próximos semáforos também abertos.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question14.c)
+[14. Em uma cidade se deseja sincronizar os semáforos. Com isto, quando um semáforo abre (fica verde), os veículos que nele estavam parados tendem a encontrar os próximos semáforos também abertos.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_14.c)
 
-[15. Num dia de sol, você deseja medir a altura de um prédio, porém, a trena não é suficientemente longa. Assumindo que seja possível medir sua sombra e a do prédio no chão, e que você lembre da sua altura, faça um programa para ler os dados necessários e calcular a altura do prédio.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question15.c)
+[15. Num dia de sol, você deseja medir a altura de um prédio, porém, a trena não é suficientemente longa. Assumindo que seja possível medir sua sombra e a do prédio no chão, e que você lembre da sua altura, faça um programa para ler os dados necessários e calcular a altura do prédio.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_15.c)
 
-[16. Escreva um programa para gerar o invertido de um número com três algarismos (exemplo: o invertido de 498 é 894).](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question16.c)
+[16. Escreva um programa para gerar o invertido de um número com três algarismos (exemplo: o invertido de 498 é 894).](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_16.c)
 
-[17. Um programa para gerenciar os saques de um caixa eletrônico deve possuir algum mecanismo para decidir o número de notas de cada valor que deve ser disponibilizado para o cliente que realizou o saque.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question17.c) 
+[17. Um programa para gerenciar os saques de um caixa eletrônico deve possuir algum mecanismo para decidir o número de notas de cada valor que deve ser disponibilizado para o cliente que realizou o saque.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_17.c) 
 
-[18. Escreva um programa que permute o valor de duas variáveis inteiras.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question18.c)
+[18. Escreva um programa que permute o valor de duas variáveis inteiras.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_18.c)
 
-[19. Escreva um programa que calcule a raiz de uma equação do primeiro grau.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question19.c)
+[19. Escreva um programa que calcule a raiz de uma equação do primeiro grau.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_19.c)
 
-[20. Uma loja vende seus produtos no sistema entrada mais duas prestações, sendo a entrada maior do que ou igual às duas prestações, as quais devem ser iguais, inteiras e as maiores possíveis.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question20.c) 
+[20. Uma loja vende seus produtos no sistema entrada mais duas prestações, sendo a entrada maior do que ou igual às duas prestações, as quais devem ser iguais, inteiras e as maiores possíveis.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_20.c) 
 
-[21. Escreva um programa que leia um número e exiba se ele é positivo ou negativo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question21.c)
+[21. Escreva um programa que leia um número e exiba se ele é positivo ou negativo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_21.c)
 
-[22. Escreva um programa que leia um número e exiba o seu módulo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question22.c)
+[22. Escreva um programa que leia um número e exiba o seu módulo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_22.c)
 
-[23. Escreva um programa que leia um número e imprima se este número é ou não par.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question23.c)
+[23. Escreva um programa que leia um número e imprima se este número é ou não par.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_23.c)
 
-[24. Escreva um programa que leia três números e mostre o maior entre eles.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question24.c)
+[24. Escreva um programa que leia três números e mostre o maior entre eles.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_24.c)
 
-[25. Escreva um programa que leia o número equivalente ao mês e imprima a quantidade de dias deste mês.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question25.c)
+[25. Escreva um programa que leia o número equivalente ao mês e imprima a quantidade de dias deste mês.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_25.c)
 
-[26. Escreva um programa que leia 3 valores e escreva a soma dos 2 maiores.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question26.c)
+[26. Escreva um programa que leia 3 valores e escreva a soma dos 2 maiores.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_26.c)
 
-[27. Escreva um programa que leia 3 números e calcule a média ponderada entre eles. Considere que o maior número recebe peso 5 e os outros dois recebem peso 2,5.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question27.c)
+[27. Escreva um programa que leia 3 números e calcule a média ponderada entre eles. Considere que o maior número recebe peso 5 e os outros dois recebem peso 2,5.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_27.c)
 
-[28. Escreva um programa que leia uma letra e mostre se ela é vogal ou consoante.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question28.c)
+[28. Escreva um programa que leia uma letra e mostre se ela é vogal ou consoante.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_28.c)
 
-[29. Escreva um programa que calcula o desconto previdenciário de um funcionário. Dado um salário, o programa deve retornar o valor do desconto proporcional ao mesmo. O cálculo segue a regra:](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question29.c)
+[29. Escreva um programa que calcula o desconto previdenciário de um funcionário. Dado um salário, o programa deve retornar o valor do desconto proporcional ao mesmo. O cálculo segue a regra:](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_29.c)
 
 [30. Um posto está vendendo combustíveis com a seguinte tabela de descontos: Álcool Até 25 litros, desconto de 2% por litro. Acima de 25 litros, desconto de 4% por litro. Gasolina Até 25 litros, desconto de 3% por litro. Acima de 25 litros, desconto de 5% por litro.](http://#)
 
