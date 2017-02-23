@@ -1,63 +1,63 @@
 # Lógica de Programação com C
 99 questões de lógica de programação
 
-[1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](http://#)
+[1. Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question1.c)
 
-[2. Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo.](http://#)
+[2. Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question2.c)
 
-[3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.](http://#)
+[3. Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question3.c)
 
-[4. Dado os três lados de um triângulo determinar o perímetro do mesmo.](http://#)
+[4. Dado os três lados de um triângulo determinar o perímetro do mesmo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question4.c)
 
-[5. Ler um número inteiro e exibir o seu sucessor.](http://#)
+[5. Ler um número inteiro e exibir o seu sucessor.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question5.c)
 
-[6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.](http://#)
+[6. Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question6.c)
 
-[7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias.](http://#)
+[7. Solicitar a idade de uma pessoa em dias e informar na tela a idade em anos, meses e dias.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question7.c)
 
-[8. Dado que a fórmula para conversão de Fahrenheit para Celsius é C = 5/9 (F – 32), leu um valor de temperatura em Fahrenheit e exibi-lo em Celsius](http://#)
+[8. Dado que a fórmula para conversão de Fahrenheit para Celsius é C = 5/9 (F – 32), leu um valor de temperatura em Fahrenheit e exibi-lo em Celsius](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question8.c)
 
-[9. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de óleo, dado seu raio e sua altura.](http://#)
+[9. Faça um algoritmo que calcule e apresente o valor do volume de uma lata de óleo, dado seu raio e sua altura.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question9.c)
 
-[10. Converter um inteiro informado menor que 32 para sua representação em binário ](http://#)
+[10. Converter um inteiro informado menor que 32 para sua representação em binário ](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question10.c)
 
-[11. Faça um algoritmo para calcular a nota semestral de um aluno. A nota semestral é obtida pela média aritmética entre a nota de 2 bimestres. Cada nota de bimestre é composta por 2 notas de provas.](http://#)
+[11. Faça um algoritmo para calcular a nota semestral de um aluno. A nota semestral é obtida pela média aritmética entre a nota de 2 bimestres. Cada nota de bimestre é composta por 2 notas de provas.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question11.c)
 
-[12. Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para Km/h. Para tal, multiplique o valor em m/s por 3,6.](http://#)
+[12. Faça um algoritmo que transforme uma velocidade fornecida em m/s pelo usuário para Km/h. Para tal, multiplique o valor em m/s por 3,6.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question12.c)
 
-[13. Um circuito elétrico é composto de duas resistências R1 e R2 em paralelo, e ambas em sequência de uma resistência R3. Faça um algoritmo para calcular a resistência equivalente desse circuito.](http://#)
+[13. Um circuito elétrico é composto de duas resistências R1 e R2 em paralelo, e ambas em sequência de uma resistência R3. Faça um algoritmo para calcular a resistência equivalente desse circuito.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question13.c)
 
-[14. Em uma cidade se deseja sincronizar os semáforos. Com isto, quando um semáforo abre (fica verde), os veículos que nele estavam parados tendem a encontrar os próximos semáforos também abertos.](http://#)
+[14. Em uma cidade se deseja sincronizar os semáforos. Com isto, quando um semáforo abre (fica verde), os veículos que nele estavam parados tendem a encontrar os próximos semáforos também abertos.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question14.c)
 
-[15. Num dia de sol, você deseja medir a altura de um prédio, porém, a trena não é suficientemente longa. Assumindo que seja possível medir sua sombra e a do prédio no chão, e que você lembre da sua altura, faça um programa para ler os dados necessários e calcular a altura do prédio.](http://#)
+[15. Num dia de sol, você deseja medir a altura de um prédio, porém, a trena não é suficientemente longa. Assumindo que seja possível medir sua sombra e a do prédio no chão, e que você lembre da sua altura, faça um programa para ler os dados necessários e calcular a altura do prédio.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question15.c)
 
-[16. Escreva um programa para gerar o invertido de um número com três algarismos (exemplo: o invertido de 498 é 894).](http://#)
+[16. Escreva um programa para gerar o invertido de um número com três algarismos (exemplo: o invertido de 498 é 894).](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question16.c)
 
-[17. Um programa para gerenciar os saques de um caixa eletrônico deve possuir algum mecanismo para decidir o número de notas de cada valor que deve ser disponibilizado para o cliente que realizou o saque.](http://#) 
+[17. Um programa para gerenciar os saques de um caixa eletrônico deve possuir algum mecanismo para decidir o número de notas de cada valor que deve ser disponibilizado para o cliente que realizou o saque.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question17.c) 
 
-[18. Escreva um programa que permute o valor de duas variáveis inteiras.](http://#)
+[18. Escreva um programa que permute o valor de duas variáveis inteiras.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question18.c)
 
-[19. Escreva um programa que calcule a raiz de uma equação do primeiro grau.](http://#)
+[19. Escreva um programa que calcule a raiz de uma equação do primeiro grau.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question19.c)
 
-[20. Uma loja vende seus produtos no sistema entrada mais duas prestações, sendo a entrada maior do que ou igual às duas prestações, as quais devem ser iguais, inteiras e as maiores possíveis.](http://#) 
+[20. Uma loja vende seus produtos no sistema entrada mais duas prestações, sendo a entrada maior do que ou igual às duas prestações, as quais devem ser iguais, inteiras e as maiores possíveis.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question20.c) 
 
-[21. Escreva um programa que leia um número e exiba se ele é positivo ou negativo.](http://#)
+[21. Escreva um programa que leia um número e exiba se ele é positivo ou negativo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question21.c)
 
-[22. Escreva um programa que leia um número e exiba o seu módulo.](http://#)
+[22. Escreva um programa que leia um número e exiba o seu módulo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question22.c)
 
-[23. Escreva um programa que leia um número e imprima se este número é ou não par.](http://#)
+[23. Escreva um programa que leia um número e imprima se este número é ou não par.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question23.c)
 
-[24. Escreva um programa que leia três números e mostre o maior entre eles.](http://#)
+[24. Escreva um programa que leia três números e mostre o maior entre eles.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question24.c)
 
-[25. Escreva um programa que leia o número equivalente ao mês e imprima a quantidade de dias deste mês.](http://#)
+[25. Escreva um programa que leia o número equivalente ao mês e imprima a quantidade de dias deste mês.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question25.c)
 
-[26. Escreva um programa que leia 3 valores e escreva a soma dos 2 maiores.](http://#)
+[26. Escreva um programa que leia 3 valores e escreva a soma dos 2 maiores.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question26.c)
 
-[27. Escreva um programa que leia 3 números e calcule a média ponderada entre eles. Considere que o maior número recebe peso 5 e os outros dois recebem peso 2,5.](http://#)
+[27. Escreva um programa que leia 3 números e calcule a média ponderada entre eles. Considere que o maior número recebe peso 5 e os outros dois recebem peso 2,5.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question27.c)
 
-[28. Escreva um programa que leia uma letra e mostre se ela é vogal ou consoante.](http://#)
+[28. Escreva um programa que leia uma letra e mostre se ela é vogal ou consoante.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question28.c)
 
-[29. Escreva um programa que calcula o desconto previdenciário de um funcionário. Dado um salário, o programa deve retornar o valor do desconto proporcional ao mesmo. O cálculo segue a regra:](http://#)
+[29. Escreva um programa que calcula o desconto previdenciário de um funcionário. Dado um salário, o programa deve retornar o valor do desconto proporcional ao mesmo. O cálculo segue a regra:](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question29.c)
 
 [30. Um posto está vendendo combustíveis com a seguinte tabela de descontos: Álcool Até 25 litros, desconto de 2% por litro. Acima de 25 litros, desconto de 4% por litro. Gasolina Até 25 litros, desconto de 3% por litro. Acima de 25 litros, desconto de 5% por litro.](http://#)
 
