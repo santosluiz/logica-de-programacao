@@ -111,11 +111,11 @@
 
 [55. Um número se diz perfeito se é igual à soma de seus divisores próprios. Divisores próprios de um número positivo N são todos os divisores inteiros positivos de N exceto o próprio N.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_55.c)
 
-[56 - Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_56.c)
+[56 - Send S = .... , um somatório de N (informado pelo usuário) termos.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_56.c)
 
-[57 - Sendo S = 1 + 1/2² + 1/3³...](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_57.c)
+[57 - O valor aproximado do número π pode ser calculado usando-se a série:](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_57.c)
 
-[58 - O valor aproximado do número π pode ser calculado usando-se a série...](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_58.c)
+[58 - O número e (número de Euler) pode ser representado e calculado por meio da utilização da série de Taylor para e quando x=1, como a soma da seguinte série infinita:](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_58.c)
 
 [59. A famosa conjectura de Goldbach diz que todo inteiro par maior que 2 é soma de dois números primos. Testes foram feitos, mas ainda não se achou um contra-exemplo.](https://github.com/santosluiz/logica-de-programacao/blob/master/questions/question_59.c)
 
