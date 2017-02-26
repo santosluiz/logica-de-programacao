@@ -14,8 +14,7 @@
 
 	Escreva um programa que receba um número com os 4 primeiros dígitos de uma agência e imprima o número da agência completo (numero – dv). 
 
-	[Imgur](http://i.imgur.com/Mtzzwq4.png)
-	<a href="http://imgur.com/Mtzzwq4"><img src="http://i.imgur.com/Mtzzwq4.png" title="source: imgur.com" /></a>
+	Veja a tabela aqui:: http://imgur.com/Mtzzwq4
 
 
 */    
