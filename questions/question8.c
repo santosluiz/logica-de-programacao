@@ -5,4 +5,12 @@
 
 main(){
 	
+     float cel,fahr;
+
+     printf("Digite o valor em Fahrenheit: \n");
+     scanf ("%f", &fahr);
+
+     cel = (5/9) * (fahr - 32);
+     printf ("A conversao em Celsius e: %.2f\n\n", cel);
+	
 }
