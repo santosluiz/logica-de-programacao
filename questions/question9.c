@@ -5,4 +5,13 @@
 
 main(){
 	
+     float PI = 3.14, volume, raio, altura;
+     
+     printf("Digite o raio: \n");
+     scanf ("%f", &raio);
+     printf("Digite a altura: \n");
+     scanf ("%f", &altura);
+     
+     volume = altura * PI *(raio * raio);
+     printf ("O valor do volume e: %.2f\n\n", volume);	
 }
