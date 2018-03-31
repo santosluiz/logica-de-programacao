@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define TAM 5
+#define TAM 20
 /* 63. Faca um programa em C que leia um array de 20 inteiros e imprima o menor e o maior valor dentre os elementos do array.
 
 */    
@@ -9,7 +9,7 @@ void exibeMenor(int *vet);
 void exibeMaior(int *vet);
 
 main(){
-	
+    	
 	int vet[TAM];
 	int i;
 	
@@ -54,3 +54,4 @@ void exibeMaior(int *vet){
 	
 	printf("Valor maior: %d", aux);
 }
+
