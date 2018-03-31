@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#define TAM 5
 
 /* 68. Escreva um programa que leia um vetor de 15 posições de inteiros.
 	Em seguida, o programa deve ler um valor inteiro e imprimir o número de vezes que este valor ocorre no vetor. */    
@@ -9,7 +10,7 @@ int escolheNumero();
 void valorRepetido(int *vet, int numero);
 
 main(){
-	int vet[3];
+	int vet[TAM];
 	int numero;
 	
 	insere(vet);
@@ -22,7 +23,7 @@ void insere(int *vet){
 	int i;
 	
 	printf("Preencha o vetor com 15 inteiros: \n");
-	for(i=0; i<3; i++){
+	for(i=0; i<TAM; i++){
 		scanf("%d", &vet[i]);		
 	}		
 }
@@ -40,7 +41,7 @@ int escolheNumero(){
 void valorRepetido(int *vet, int numero){
 	int i, cont = 0;
 	
-	for(i=0; i<3; i++){
+	for(i=0; i<TAM; i++){
 		if(numero == vet[i]){
 			cont++;
 		}
