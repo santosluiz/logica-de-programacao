@@ -9,13 +9,13 @@ void exibeMenor(int *vet);
 void exibeMaior(int *vet);
 
 main(){
+	
 	int vet[TAM];
 	int i;
 	
 	leitura(vet);
 	exibeMenor(vet);
 	exibeMaior(vet);
-	
 }
 
 void leitura(int *vet){
