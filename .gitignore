@@ -1,0 +1,7 @@
+#C files unnecessary
+
+*.exe
+*.o
+*.layout
+*.win
+*.dev
