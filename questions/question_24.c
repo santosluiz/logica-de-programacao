@@ -15,7 +15,6 @@ main(){
 	
 	aux = compara(numeros);
 
-	
 }
 
 int compara(int *num){
