@@ -12,5 +12,28 @@
 
 
 main(){
-	
+	float dist, vmax, acel, dac, dconst, base, tempo1, tempo2, temposem;
+    printf("Este programa faz sincronizar os semáforos");
+    printf("Qual a distância entre o os semáforos em metros:");
+    scanf("%f", &dist);
+    printf("Qual a velocidade máxima da via:");
+    scanf("%f", &vmax);
+    printf("Qual a aceleração média do carro:");
+    scanf("%f", &acel);
+    vmax = vmax/3.6; //conversão de Km/h 
+    tempo1 = (max/acel); //calculo do tempo em que o carro demora para chegar à velocidade máxima da via (v = v0 + a . t)
+    dac = (acel*(tempo1*tempo2))/2;//descobrindo a distância percorrida durante esta aceleração (S = S0 + v0 . t + a . t²/2)
+    if(dac<dist){
+        dconst = dist - dac;
+        tempo2 = (dconst/vmax);//(s = s0 + v*t)
+        temposem = tempo1+tempo2-3;
+    }else{
+        if(dac>dist){//caso a distância percorrida durante a aceleração seja maior que a distância até o próximo farol, deve-se saber o tempo necessário para que ele o atinja com base na distância entre os dois faróis.
+            base = (((dac*2)/acel)**0.5)//(S = S0 + v0 . t + a . t²/2)
+            temposem = temposem -3;
+        }else{//caso a distância percorrida durante a aceleração seja a mesma que a distância entre os faróis, o tempo de aceleração até a velocidade máxima da pista é o mesmo que o de chegada ao farol.
+            temposem = tempo1-3;
+        }
+    }
+    printf("Dadas as informações inseridas, o semaforo deve abrir após %.2f segundos.", temposem);
 }
